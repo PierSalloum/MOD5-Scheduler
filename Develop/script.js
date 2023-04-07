@@ -21,3 +21,73 @@ $(function () {
   //
   // TODO: Add code to display the current date in the header of the page.
 });
+
+
+let hour6 = {
+  element: $("#hour-6"),
+  value: 6
+}
+let hour7 = {
+  element: $("#hour-6"),
+  value: 7
+}
+let hour8 = {
+  element: $("#hour-6"),
+  value: 8
+}
+let hour9 = {
+  element: $("#hour-6"),
+  value: 9
+}
+let hour10 = {
+  element: $("#hour-6"),
+  value: 10
+}
+let hour11 = {
+  element: $("#hour-6"),
+  value: 11
+}
+let hour12 = {
+  element: $("#hour-6"),
+  value: 12
+}
+let hour13 = {
+  element: $("#hour-6"),
+  value: 13
+}
+let hour14 = {
+  element: $("#hour-6"),
+  value: 14
+}
+let hour15 = {
+  element: $("#hour-6"),
+  value: 15
+}
+let hour16 = {
+  element: $("#hour-6"),
+  value: 16
+}
+let hour17 = {
+  element: $("#hour-6"),
+  value: 17
+}
+let hour18 = {
+  element: $("#hour-6"),
+  value: 18
+}
+let hour19 = {
+  element: $("#hour-6"),
+  value: 19
+} 
+let hour20 = {
+  element: $("#hour-6"),
+  value: 20
+}
+let hour21 = {
+  element: $("#hour-6"),
+  value: 21
+}
+let hour22 = {
+  element: $("#hour-6"),
+  value: 22
+}
